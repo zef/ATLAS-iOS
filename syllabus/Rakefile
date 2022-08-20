@@ -1,0 +1,22 @@
+
+desc "Convert required statements from HTML to markdown"
+task :convert_statements do
+  `pandoc -o statements.md statements.html`
+end
+
+desc "Combine syllabus and convert to HTML and PDF."
+task :syllabus do
+  content = "syllabus.md"
+  statements = "statements.md"
+  syllabus = "combined_syllabus.md"
+  `cat #{content} #{statements} > #{syllabus}`
+
+  # https://pandoc.org/MANUAL.html
+  # HTML
+  `pandoc -s -c sakura.css --metadata title="ATLAS Syllabus" -o syllabus.html #{syllabus}`
+  # pdf
+  `pandoc --template eisvogel --metadata-file=format.yaml -o syllabus.pdf #{syllabus}`
+end
+
+task default: [:syllabus] do
+end
