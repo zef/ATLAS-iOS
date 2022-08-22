@@ -1,0 +1,59 @@
+/*! @theme zef */
+
+/*
+Not actually using this right now, but was experimenting with it.
+I'd probably use it if I could import the bespoke theme, but I can't find how to do that yet.
+It's in marp-cli, and the other themes are in marp-core
+*/
+
+/* https://github.com/marp-team/marp-core/blob/main/themes/uncover.scss */
+
+@import "uncover";
+/* @import "default"; */
+/* @import "gaia"; */
+/* @import "bespoke"; */
+
+/* see variables for uncover here */
+/* https://github.com/sindresorhus/github-markdown-css/blob/main/github-markdown.css */
+:root {
+  --color-fg-default: #c9d1d9;
+  --color-fg-muted: #8b949e;
+  --color-fg-subtle: #484f58;
+  --color-canvas-default: #0d1117;
+  --color-canvas-subtle: #161b22;
+  --color-border-default: #30363d;
+  --color-border-muted: #21262d;
+  --color-neutral-muted: rgba(110,118,129,0.4);
+  --color-accent-fg: #58a6ff;
+  --color-accent-emphasis: #1f6feb;
+  --color-attention-subtle: rgba(187,128,9,0.15);
+  --color-danger-fg: #f85149;
+
+
+  --color-canvas-default: #fff;
+
+  /* --color-background: #fff; */
+  /* --color-foreground: #333; */
+  /* --color-highlight: #F05138; */
+  /* --color-dimmed: #888; */
+}
+
+
+/* section.invert { */
+/*   background-color: white; */
+/* } */
+
+/* h1 { */
+/*   font-size: 1.5rem; */
+/*   color: #BED; */
+/* } */
+
+/* h2 { */
+/*   font-size: 1.25rem; */
+/*   color: #F05138; */
+/* } */
+
+/* h4 { */
+/*   margin-top: -8px; */
+/*   font-weight: normal; */
+/* } */

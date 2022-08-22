@@ -1,8 +1,0 @@
-html: true
-# theme: bespoke
-# theme: uncover
-theme: gaia
-options:
-  emoji:
-    shortcode: true
-    unicode: true

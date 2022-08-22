@@ -1,0 +1,15 @@
+html: true
+# theme: gaia
+#
+# would love to customize this, not quite sure how yet...
+# https://github.com/bespokejs/bespoke
+theme: bespoke
+# theme: uncover
+# theme: zef
+options:
+  emoji:
+    shortcode: true
+    unicode: true
+
+  style:
+
