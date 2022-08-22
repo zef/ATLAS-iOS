@@ -3,12 +3,18 @@
 These are my course materials for teaching the Mobile App Development course at
 [The University of Colorado's ATLAS Institute](https://www.colorado.edu/atlas/).
 
+
+## Website
+
+The [`html` folder](/html/) in this repo is [hosted as a website](https://zef.github.io/ATLAS-iOS/) here on
+GitHub Pages. You can see the syllabus, slides, and other materials there.
+
 ## Slides
 
 The `slides` folder contains markdown that produces all of the presentations
 using [Marp](https://marp.app).
 
-The [`html` folder](/html/) holds the rendered slides, which can be downloaded and opened
+The rendered slides in the `html` folder can be downloaded and opened
 up in a browser window from your own computer.
 
 A Ruby Rakefile is used to organize the shell commands needed for various tasks.
