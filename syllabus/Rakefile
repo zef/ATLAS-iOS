@@ -13,7 +13,7 @@ task :syllabus do
 
   # https://pandoc.org/MANUAL.html
   # HTML
-  `pandoc -s -c sakura.css --metadata title="ATLAS Syllabus" -o syllabus.html #{syllabus}`
+  `pandoc -s -c sakura-zef.css -o ../html/syllabus.html #{syllabus}`
   # pdf
   `pandoc --template eisvogel --metadata-file=format.yaml -o syllabus.pdf #{syllabus}`
 end
