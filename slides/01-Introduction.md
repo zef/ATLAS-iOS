@@ -41,14 +41,9 @@ The [course description](https://docs.google.com/document/d/e/2PACX-1vRoVL8WLgDb
 ![bg](images/android.svg)
 
 <!--
-However, seeking to be:
-
-holistic
-generally interesting and useful
-app design, UI, UX
-software engineering practices
-development tools like git
-code review, collaboration
+That being said:
+- I've worked on cross-platform teams
+- kotlin similar to Swift
 -->
 
 ---
@@ -61,20 +56,29 @@ code review, collaboration
 ![bg right](images/dev-icons.png)
 
 ---
-- we will not cover everything
-* Learn how to learn
+
+## The Goal:
+
+- Teach you how to develop apps.
+
+* Holistic.
+* How to code.
+* Talk about App design, UI, UX.
+* Learn software engineering practices and principles.
+* Use development tools like `git` and the command line.
+* Collaborate. Perform code reviews. Encourage and influence one another.
+* Generally interesting and useful, even if you never write another app.
 
 <!--
-if we tried to, it would be outdated by the time we finished.
-or irrelevant
-learn to learn
+Not just "how to code"
+
+- Can't learn everything, if we tried to, it would be outdated by the time we finished.
+- Principles
+- Write, understand, and debug code
+- Learn how learn, how to figure it out on your own
+- the mindset using a computer as a developer
+- I hope to provide a unique opportunity
 -->
-
----
-
-<!-- _class: lead -->
-
-# Question Time!
 
 ---
 
@@ -85,6 +89,7 @@ learn to learn
 * Disagree.
 * See things I don’t see, and say something.
 * Teach me.
+* Make cool stuff.
 
 <!--
 Examples of:
@@ -97,20 +102,6 @@ Bad user interfaces
 -->
 
 ---
-## What are your goals?
-
-- Why do you want to learn iOS development?
-
-- Regarding mobile app development, what are your primary interests?
-
-- How many people don't have a Mac to use?
-- Do you have an iPhone or iPad?
-
-- Do you want a chatroom?
-
----
-
-
 ## Grading:
 
 
@@ -126,13 +117,13 @@ func calculateGrade() -> Float {
 
 The course materials are _✨Open Source✨_
 
-- contribute to my lecture repo
+* contribute to my [lecture repo](https://github.com/zef/ATLAS-iOS)
   * corrections:
     - typos
     - innacuracies
     - bug reports & bug fixes
   * suggestions for clarification or improvement
-    - [File an Issue]() on GitHub
+    - [File an Issue](https://github.com/zef/ATLAS-iOS/issues/new) on GitHub
 
 ---
 
@@ -140,11 +131,34 @@ The course materials are _✨Open Source✨_
 
 ---
 
+# Question Time!
+
+
+## What are your goals?
+
+- Why do you want to learn iOS development?
+
+- What do you think of when you picture what an app is made of?
+
+- What do you think of when you picture the process of making an app?
+
+- Regarding mobile app development, what are your primary interests?
+
+- How many people don't have a Mac to use?
+- Do you have an iPhone or iPad?
+
+- Do you want a chatroom?
+
+---
+
+
+---
+
 ## The Plan
 
 - Rant
 - [HIG](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview) Review
-- Principles
+- Code Reviews. Refactoring.
 
 <!-- have worked with designers that simply didn't know the HIG -->
 

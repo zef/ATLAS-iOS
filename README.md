@@ -13,6 +13,11 @@ up in a browser window from your own computer.
 
 A Ruby Rakefile is used to organize the shell commands needed for various tasks.
 
+A symbolic link is created with `ln -s html/images images` from the `slides`
+folder, which enables me to see images when I run the marp server, but still
+store the images in the `html` folder so that they can be served when opening an
+HTML file locally.
+
 ## Syllabus
 
 The `syllabus` folder contains files related to the syllabus, which is
