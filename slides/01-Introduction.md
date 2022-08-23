@@ -152,18 +152,6 @@ The course materials are _✨Open Source✨_
 ---
 
 
----
-
-## The Plan
-
-- Rant
-- [HIG](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview) Review
-- Code Reviews. Refactoring.
-
-<!-- have worked with designers that simply didn't know the HIG -->
-
----
-
 ## Directives
 
 By next class, you should:
