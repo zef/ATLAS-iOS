@@ -40,3 +40,7 @@ I had to install `pdflatex` with `brew install mactex` and then
 the path to my environment to generate the PDF.
 
 I'm using [this latex template](https://github.com/Wandmalfarbe/pandoc-latex-template) for the design.
+
+
+
+![Atlas](html/images/atlas.svg)

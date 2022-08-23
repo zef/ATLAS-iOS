@@ -23,7 +23,7 @@ section.end h1 {
 
 # <!-- fit --> Mobile App Development
 ## Zef Houssney
-#### Professor
+#### Lecturer
 
 
 ![bg right](images/dev-icons.png)

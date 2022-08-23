@@ -9,6 +9,7 @@ footer-right: zef.houssney@colorado.edu
 # Mobile App Development
 
 ATLS 4120/5120, Fall 2022
+<br />
 Zef Houssney — [zef.houssney@colorado.edu](mailto:zef.houssney@colorado.edu)
 
 ## There's an App for That.
@@ -35,7 +36,12 @@ collaborative environment. In this class, you will:
 
 ## Class Resources
 
-Class resources will be posted at [https://github.com/zef/ATLAS-iOS](https://github.com/zef/ATLAS-iOS)
+Class resources will be posted at [https://zef.github.io/ATLAS-iOS/](https://zef.github.io/ATLAS-iOS/).
+
+The source for that page is in the `html` folder of the course repo at [https://github.com/zef/ATLAS-iOS](https://github.com/zef/ATLAS-iOS).
+
+I will probably use Canvas too for some things, but it's likely that most of the
+class resources will be at the site and repo above.
 
 ## Pre-requisites
 
@@ -56,11 +62,18 @@ If you don't have a Mac of your own, let's talk.
 
 ## Grading
 
+I will seek to follow the ATLAS reccomended scale:
+```
 A = excellent work
 B = above average work
 C = average or competent work
 D = below average work
 F = unsatisfactory work
+```
+I recognize that levels of experience and ability vary, and I don't expect
+everyone to be at the same skill level. Students must demonstrate that they are
+putting in time, effort, and work to do good work and challenge themselves to
+learn and improve.
 
 ## Work Due Dates
 

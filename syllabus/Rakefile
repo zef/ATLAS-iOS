@@ -1,5 +1,5 @@
 
-desc "Convert required statements from HTML to markdown"
+desc "Convert required statements from HTML to markdown, only needed when statements are updated."
 task :convert_statements do
   `pandoc -o statements.md statements.html`
 end
