@@ -8,30 +8,40 @@ footer-right: zef.houssney@colorado.edu
 
 # Mobile App Development
 
+ATLS 4120/5120, Fall 2022
+<br />
+Zef Houssney — [zef.houssney@colorado.edu](mailto:zef.houssney@colorado.edu)
+
 ## There's an App for That.
 
 Or is there? There are lots of apps. But what about _that_ one? As an iOS
 developer, people have been telling me about their app ideas for over a decade.
-I've learned that while there are tons of amazing apps out there, there are
-always new c
+I've learned that while there are tons of amazing apps out there, there's still
+a ton of room for new concepts, ideas, and implementations.
 
 As our devices and the developer tools that drive them continue to gain new
-capabilities, the potential for new mobile apps is as exciting as ever.
+capabilities, the potential for new types of apps that weren't previously
+possible just keeps growing.
 
 ## Objective
 
 You will learn how to design and develop iOS applications in a hands-on and
 collaborative environment. In this class, you will:
 
-- Become proficient in Swift and tools to thrive in the iOS app development environment.
+- Create iOS Applications using Apple's native frameworks and developer tools.
+- Become proficient in Swift and the tools to thrive in the iOS app development environment.
 - Use source control (git) for code management and collaboration.
 - Explore user interface design and user experience through examples, discussion, and implementation.
 - Practice constructive criticism and code review with peers.
--
 
 ## Class Resources
 
-Class resources will be posted online at https://github.com/zef/ATLAS-iOS
+Class resources will be posted at [https://zef.github.io/ATLAS-iOS/](https://zef.github.io/ATLAS-iOS/).
+
+The source for that page is in the `html` folder of the course repo at [https://github.com/zef/ATLAS-iOS](https://github.com/zef/ATLAS-iOS).
+
+I will probably use Canvas too for some things, but it's likely that most of the
+class resources will be at the site and repo above.
 
 ## Pre-requisites
 
@@ -44,19 +54,26 @@ course listed above, please come speak with me.
 
 - A Mac with [Xcode 14](https://developer.apple.com/xcode/)
 - An Internet Connection
+- A [GitHub](https://github.com) account
 - A Can-Do Attitude
-- A GitHub account
 
 Lab Macs in the ATLAS building are available and should have Xcode installed.
 If you don't have a Mac of your own, let's talk.
 
 ## Grading
 
+I will seek to follow the ATLAS reccomended scale:
+```
 A = excellent work
 B = above average work
 C = average or competent work
 D = below average work
 F = unsatisfactory work
+```
+I recognize that levels of experience and ability vary, and I don't expect
+everyone to be at the same skill level. Students must demonstrate that they are
+putting in time, effort, and work to do good work and challenge themselves to
+learn and improve.
 
 ## Work Due Dates
 
@@ -92,7 +109,7 @@ time commitment or find themselves struggling to please talk to me personally.
 ## Absence
 
 If you expect to be absent due to illness or another reason, please let me know ahead of time in person, or
-[send me an email at zef.houssney@colorado.edu](mailto:zef.houssney@colorado.edu?subject=Absence Notification).
+[send me an email at zef.houssney@colorado.edu](mailto:zef.houssney@colorado.edu?subject=Absence%20Notification).
 
 Also, please inform any classmates that you are collaborating with on group
 projects.
