@@ -3,6 +3,7 @@ task :compile_sass do
 end
 
 task publish_html: [:compile_sass] do
+  `pandoc -s -c sakura-zef.css -o html/vocabulary.html vocabulary.md`
   `pandoc -s -c sakura-zef.css -o html/index.html index.md`
 end
 

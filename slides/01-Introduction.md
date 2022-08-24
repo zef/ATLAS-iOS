@@ -1,3 +1,4 @@
+<link href="css/marp-custom.css" rel="stylesheet">
 
 <!--
 _class: lead
@@ -165,7 +166,7 @@ By next class, you should:
 
 ---
 
-<!-- class: end -->
+<!-- _class: end -->
 
 ### Next time:
 
