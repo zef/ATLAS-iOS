@@ -1,4 +1,8 @@
-task :publish_html do
+task :compile_sass do
+  `sass --no-source-map ./html/css/`
+end
+
+task publish_html: [:compile_sass] do
   `pandoc -s -c sakura-zef.css -o html/index.html index.md`
 end
 
