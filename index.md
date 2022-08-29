@@ -7,6 +7,22 @@ title: ATLAS — Mobile App Development
 [zef.houssney@colorado.edu](mailto:zef.houssney@colorado.edu)
 
 <hr />
+### 2022-08-29, Monday
+
+- [slides](03-ASimpleView.html)
+
+#### Assignment:
+
+- Read [The Basics](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+- Read [Basic Operators](https://docs.swift.org/swift-book/LanguageGuide/BasicOperators.html)
+
+- [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview)
+  - Read [Branding](https://developer.apple.com/design/human-interface-guidelines/foundations/branding)
+  - Read [Color](https://developer.apple.com/design/human-interface-guidelines/foundations/color)
+  - Read [Dark Mode](https://developer.apple.com/design/human-interface-guidelines/foundations/dark-mode)
+
+
+<hr />
 ### 2022-08-24, Wednesday
 
 - [slides](02-MakingPlans.html)
