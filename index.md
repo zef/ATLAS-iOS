@@ -9,8 +9,8 @@ title: ATLAS — Mobile App Development
 <hr />
 ### 2022-08-29, Monday
 
-- [slides](03-ASimpleView.html)
-- [A Simple View project](https://github.com/zef/ATLAS-iOS/blob/main/code/ASimpleView/)
+- [slides](03-ASimpleView.html) (not much here this week)
+- [A Simple View project](https://github.com/zef/ATLAS-iOS/tree/main/code/ASimpleView/)
 
 #### Assignment:
 
