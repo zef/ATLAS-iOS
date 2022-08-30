@@ -23,7 +23,6 @@ struct PlayerView: View {
                     .monospacedDigit()
             }
             .padding(.horizontal, 20)
-            Spacer()
         }
     }
 }
