@@ -8,11 +8,16 @@ Reworking code without changing behavior.
 
 ### Localization
 
-Translating an Application's interface into other languages.
+Translating an application's strings into other languages.
+
+Localization is closely related to Internationalization, which is the process of
+preparing an app for use in other languages and regions.
+
+Internationalization is commonly abbreviated as `I18N`.
 
 ### Mutability
 
-The ability for something to be changed.
+The ability for an object to be changed.
 
 In Swift:
 
