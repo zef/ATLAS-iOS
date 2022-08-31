@@ -7,7 +7,21 @@ title: ATLAS — Mobile App Development
 [zef.houssney@colorado.edu](mailto:zef.houssney@colorado.edu)
 
 <hr />
-### 2022-08-29, Monday
+### 04 — 2022-08-31, Wednesday
+
+#### Assignment:
+
+- Read [Collection Types](https://docs.swift.org/swift-book/LanguageGuide/CollectionTypes.html)
+- Read [Control Flow](https://docs.swift.org/swift-book/LanguageGuide/ControlFlow.html)
+- Read [Functions](https://docs.swift.org/swift-book/LanguageGuide/Functions.html)
+
+- Human Interface Guidelines
+  - Read [Icons](https://developer.apple.com/design/human-interface-guidelines/foundations/icons)
+  - Read [Images](https://developer.apple.com/design/human-interface-guidelines/foundations/images)
+  - Read [Inclusion](https://developer.apple.com/design/human-interface-guidelines/foundations/inclusion)
+
+<hr />
+### 03 — 2022-08-29, Monday
 
 - [slides](03-ASimpleView.html) (not much here this week)
 - [A Simple View project](https://github.com/zef/ATLAS-iOS/tree/main/code/ASimpleView/)
@@ -23,7 +37,7 @@ title: ATLAS — Mobile App Development
 
 
 <hr />
-### 2022-08-24, Wednesday
+### 02 - 2022-08-24, Wednesday
 
 - [slides](02-MakingPlans.html)
 
@@ -49,7 +63,7 @@ app or in Xcode.
 
 <hr />
 
-### 2022-08-22, Monday
+### 01 - 2022-08-22, Monday
 
 - [slides](01-Introduction.html)
 

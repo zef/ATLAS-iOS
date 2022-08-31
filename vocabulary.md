@@ -28,3 +28,7 @@ let number = 10
 var number = 10
 // number is mutable and can be changed
 ```
+
+### Dotfiles
+
+"Invisible" files that help configure developer tools and other software.
