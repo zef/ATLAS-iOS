@@ -9,12 +9,13 @@ title: ATLAS — Mobile App Development
 <hr />
 ### 04 — 2022-08-31, Wednesday
 
+- [slides](04-SwiftPlaygrounds.html)
+
 #### Assignment:
 
 - Read [Collection Types](https://docs.swift.org/swift-book/LanguageGuide/CollectionTypes.html)
 - Read [Control Flow](https://docs.swift.org/swift-book/LanguageGuide/ControlFlow.html)
 - Read [Functions](https://docs.swift.org/swift-book/LanguageGuide/Functions.html)
-
 - Human Interface Guidelines
   - Read [Icons](https://developer.apple.com/design/human-interface-guidelines/foundations/icons)
   - Read [Images](https://developer.apple.com/design/human-interface-guidelines/foundations/images)
