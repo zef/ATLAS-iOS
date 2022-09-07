@@ -7,6 +7,18 @@ title: ATLAS — Mobile App Development
 [zef.houssney@colorado.edu](mailto:zef.houssney@colorado.edu)
 
 <hr />
+## 05 — Talking about Apps
+
+2022-09-07, Wednesday
+
+- [slides](05-TalkingAboutApps.html)
+
+### Assignment:
+
+
+
+
+<hr />
 ## 04 — Swift and Swift Playgrounds
 
 2022-08-31, Wednesday

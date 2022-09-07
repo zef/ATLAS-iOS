@@ -8,17 +8,17 @@ task publish_html: [:compile_sass] do
   `pandoc -s -c sakura-zef.css -o html/index.html index.md`
 end
 
-task default: [:publish_html] do
-end
-
-desc "Generate HTML files"
-task :html do
+desc "Generate HTML files for slides, starts watching for changes."
+task :slides do
   `marp -w --input-dir ./slides --output ./html`
 end
 
 desc "Start the marp server"
 task :server do
   `marp -s ./slides`
+end
+
+task default: [:publish_html] do
 end
 
 # desc "Open the localhost page"
