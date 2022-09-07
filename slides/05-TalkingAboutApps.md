@@ -27,14 +27,13 @@ section.end h1 {
 
 ---
 
----
+## What kind of apps exist?
 
-## Who develops apps?
 
-* Some software supports an existing business.
-    - bank apps, entertainment apps
-
-* Some apps are the business.
+<!--
+Apps vs. Games
+Utilities, app categories
+-->
 
 ---
 
@@ -42,7 +41,14 @@ section.end h1 {
 
 ---
 
-## Who _develops_ apps?
+## Who develops apps?
+
+<!--
+Some software supports an existing business.
+ - bank apps, entertainment apps
+
+Some apps are the business.
+-->
 
 * Companies?
 * Product Teams?
@@ -51,10 +57,20 @@ section.end h1 {
 
 ---
 
-## What kind of apps exist?
+> The only thing necessary for the triumph of evil is for good men to do nothing.
 
-- Apps vs. Games
-- Utilities
+_John Stuart Mill, paraphrased_
+
+
+<!--
+You are the last line of defense.
+
+Your top-secret mission is to do everything that you can to prevent stupid software from entering the world.
+-->
+
+---
+
+## Why make apps?
 
 ---
 
@@ -85,21 +101,19 @@ section.end h1 {
 ## Do apps make money?
 
 * Passion Projects
-* Open-Source
+* Open-Source or Non-Profit backed
+  * Wikipedia
+  * LibriVox
+  * Audubon Bird Guide
   * Home Assistant
 
----
-
-## Why make apps?
-
-- bird ID apps
-- Wikipedia
-- archive.org
-- LibriVox
+<!--
+Unique opportunity as a developer in college. Time of life when they can build passion projects.
+-->
 
 ---
 
-## Who chooses the software?
+## Who chooses software?
 
 * The end user, or consumer
 * An organization
@@ -108,7 +122,6 @@ section.end h1 {
 ---
 
 ## Characteristics of An App
-
 
 * Read Only?
   * Persistence
@@ -130,7 +143,7 @@ section.end h1 {
 
 ---
 
-[Steve Jobs — A Really Great Idea](clips/02-a-really-great-idea.html)
+[Steve Jobs — A Really Great Idea](clips/02-a-really-great-idea.md)
 
 ---
 
