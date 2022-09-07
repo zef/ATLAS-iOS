@@ -1,4 +1,3 @@
-
 <!--
 _class: lead
 header: '![w:100](images/atlas.svg) <div style="float:right; margin-top:0px; margin-left: 0.3em;">4120/5120</div>'
@@ -165,7 +164,7 @@ By next class, you should:
 
 ---
 
-<!-- class: end -->
+<!-- _class: end -->
 
 ### Next time:
 
