@@ -2,16 +2,18 @@
 title: ATLAS — Mobile App Development
 ---
 
-#### [Syllabus](syllabus.html) • [GitHub Repo](https://github.com/zef/ATLAS-iOS) • [Vocabulary](vocabulary.html)
+### [Syllabus](syllabus.html) • [GitHub Repo](https://github.com/zef/ATLAS-iOS) • [Vocabulary](vocabulary.html)
 
 [zef.houssney@colorado.edu](mailto:zef.houssney@colorado.edu)
 
 <hr />
-### 04 — 2022-08-31, Wednesday
+## 04 — Swift and Swift Playgrounds
+
+2022-08-31, Wednesday
 
 - [slides](04-SwiftPlaygrounds.html)
 
-#### Assignment:
+### Assignment:
 
 - Read [Collection Types](https://docs.swift.org/swift-book/LanguageGuide/CollectionTypes.html)
 - Read [Control Flow](https://docs.swift.org/swift-book/LanguageGuide/ControlFlow.html)
@@ -22,12 +24,13 @@ title: ATLAS — Mobile App Development
   - Read [Inclusion](https://developer.apple.com/design/human-interface-guidelines/foundations/inclusion)
 
 <hr />
-### 03 — 2022-08-29, Monday
+## 03 — A Simple View
+2022-08-29, Monday
 
 - [slides](03-ASimpleView.html) (not much here this week)
 - [A Simple View project](https://github.com/zef/ATLAS-iOS/tree/main/code/ASimpleView/)
 
-#### Assignment:
+### Assignment:
 
 - Read [The Basics](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
 - Read [Basic Operators](https://docs.swift.org/swift-book/LanguageGuide/BasicOperators.html)
@@ -38,11 +41,12 @@ title: ATLAS — Mobile App Development
 
 
 <hr />
-### 02 - 2022-08-24, Wednesday
+## 02 — Making Plans
+2022-08-24, Wednesday
 
 - [slides](02-MakingPlans.html)
 
-#### Assignment:
+### Assignment:
 
 - Read [A Swift Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html).
 - Read [Accessibility](https://developer.apple.com/design/human-interface-guidelines/foundations/accessibility)
@@ -51,7 +55,7 @@ title: ATLAS — Mobile App Development
 If you want, start messing around with Swift in the [Swift Playgrounds](https://www.apple.com/swift/playgrounds/)
 app or in Xcode.
 
-#### Links and Resources
+### Links and Resources
 
 - [swift.org](https://www.swift.org)
   - "Getting Started" is about installation. You probably don't need this after
@@ -64,11 +68,13 @@ app or in Xcode.
 
 <hr />
 
-### 01 - 2022-08-22, Monday
+## 01 — Introduction
+
+2022-08-22, Monday
 
 - [slides](01-Introduction.html)
 
-#### Action Items:
+### Action Items:
 
 - Download, Install and open [Xcode 14](https://developer.apple.com/xcode/). Install Command Line Tools when directed.
 - Make sure you have an Apple ID and sign in to [Apple Developer](https://developer.apple.com) with it.
