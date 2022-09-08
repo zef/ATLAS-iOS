@@ -102,10 +102,10 @@ Your top-secret mission is to do everything that you can to prevent stupid softw
 
 * Passion Projects
 * Open-Source or Non-Profit backed
-  * Wikipedia
-  * LibriVox
-  * Audubon Bird Guide
-  * Home Assistant
+  - Wikipedia
+  - LibriVox
+  - Audubon Bird Guide
+  - Home Assistant
 
 <!--
 Unique opportunity as a developer in college. Time of life when they can build passion projects.
