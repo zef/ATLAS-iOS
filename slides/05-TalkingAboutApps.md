@@ -143,7 +143,7 @@ Unique opportunity as a developer in college. Time of life when they can build p
 
 ---
 
-[Steve Jobs — A Really Great Idea](clips/02-a-really-great-idea.md)
+[Steve Jobs — A Really Great Idea](clips/02-a-really-great-idea.html)
 
 ---
 
