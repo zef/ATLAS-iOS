@@ -102,10 +102,10 @@ Your top-secret mission is to do everything that you can to prevent stupid softw
 
 * Passion Projects
 * Open-Source or Non-Profit backed
-  * Wikipedia
-  * LibriVox
-  * Audubon Bird Guide
-  * Home Assistant
+  - Wikipedia
+  - LibriVox
+  - Audubon Bird Guide
+  - Home Assistant
 
 <!--
 Unique opportunity as a developer in college. Time of life when they can build passion projects.
@@ -143,7 +143,7 @@ Unique opportunity as a developer in college. Time of life when they can build p
 
 ---
 
-[Steve Jobs — A Really Great Idea](clips/02-a-really-great-idea.md)
+[Steve Jobs — A Really Great Idea](clips/02-a-really-great-idea.html)
 
 ---
 
@@ -158,21 +158,21 @@ Unique opportunity as a developer in college. Time of life when they can build p
 
 ## Your App Idea
 
-* Approachable
-* Achievable Scope
-* Interesting to you
+- Approachable
+- Achievable Scope
+- Interesting to you
 
 ---
 
 ## Documenting your app idea
 
-* Add a README that describes your app idea
-* Make a list of feature ideas
-* Identify any special APIs you will need to implement your app
-* Create an outline of some screens in your app
-  * List of screens, with descriptions of the screen types
-  * Wireframes, sketches, or screen designs
-* Include any resources in a subfolder in your repo
-* Start building your app, if you want!
-  * Your App should probably be in its own repo
+- Add a README that describes your app idea
+- Make a list of feature ideas
+- Identify any special APIs you will need to implement your app
+- Create an outline of some screens in your app
+  - List of screens, with descriptions of the screen types
+  - Wireframes, sketches, or screen designs
+- Include any resources in a subfolder in your repo
+- Start building your app, if you want!
+  - Your App should probably be in its own repo
 
