@@ -15,8 +15,7 @@ title: ATLAS — Mobile App Development
 
 ### Assignment:
 
-
-
+[assignment slide](05-TalkingAboutApps.html#14)
 
 <hr />
 ## 04 — Swift and Swift Playgrounds
