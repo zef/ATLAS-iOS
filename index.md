@@ -7,7 +7,7 @@ title: ATLAS — Mobile App Development
 [zef.houssney@colorado.edu](mailto:zef.houssney@colorado.edu)
 
 <hr />
-## 05 — A New Apps
+## 06 — A New App
 
 2022-09-12, Monday
 
