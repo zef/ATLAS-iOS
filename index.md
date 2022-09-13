@@ -7,6 +7,30 @@ title: ATLAS — Mobile App Development
 [zef.houssney@colorado.edu](mailto:zef.houssney@colorado.edu)
 
 <hr />
+## 06 — A New App
+
+2022-09-12, Monday
+
+### Assignment:
+
+
+- Start building an application
+- Create a new repo for your application and push it to GitHub
+- Add a file called `config.yml` to your class repo (`ATLAS-iOS-Fall-22`)
+  - add `personal_project: repo_name` to the file, where `repo_name` is your
+  GitHub project name.
+
+
+### Reading Assignment
+
+- Read [Closures](https://docs.swift.org/swift-book/LanguageGuide/Closures.html)
+
+- Human Interface Guidelines
+  - Read [Layout](https://developer.apple.com/design/human-interface-guidelines/foundations/layout)
+  - Read [Materials](https://developer.apple.com/design/human-interface-guidelines/foundations/materials)
+
+<hr />
+
 ## 05 — Talking about Apps
 
 2022-09-07, Wednesday
