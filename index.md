@@ -16,8 +16,10 @@ title: ATLAS — Mobile App Development
 
 - Start building an application
 - Create a new repo for your application and push it to GitHub
-- Add a file called `config.yml`
-  - add `personal_project: repo_name` to the file
+- Add a file called `config.yml` to your class repo (`ATLAS-iOS-Fall-22`)
+  - add `personal_project: repo_name` to the file, where `repo_name` is your
+  GitHub project name.
+
 
 ### Reading Assignment
 
