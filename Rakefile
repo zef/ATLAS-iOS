@@ -18,6 +18,11 @@ task :server do
   `marp -s ./slides`
 end
 
+task :build_repo_tool do
+  `xcodebuild -project update-student-repos/update-student-repos.xcodeproj`
+  `mv update-student-repos/build/Release/update-student-repos update-repos`
+end
+
 task default: [:publish_html] do
 end
 
