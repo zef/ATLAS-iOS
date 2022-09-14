@@ -7,6 +7,38 @@ title: ATLAS — Mobile App Development
 [zef.houssney@colorado.edu](mailto:zef.houssney@colorado.edu)
 
 <hr />
+## 07 — App Lab
+
+2022-09-14, Wednesday
+
+### Assignment:
+
+- Make a group of 3-4 students in which you will do code reviews and provide feedback for oneanother.
+
+- Get up-to-date on the recent repo assignments:
+  - Make sure I have your GitHub username in [`github_usernames.txt`](https://github.com/zef/ATLAS-iOS/blob/main/github_usernames.txt)
+  - Make sure you have an app idea documented in your class repo at `ATLAS-iOS-Fall-22`.
+  - Add the `config.yaml` file as listed the Assignment from `06`
+- Add `name: Your Name` to that config file, as well.
+- Don't commit `.DS_Store` files to git. Please [remove them](https://stackoverflow.com/questions/107701/how-can-i-remove-ds-store-files-from-a-git-repository) I recommend ignoring it at a global
+level on your machine, but you can also add it to your project's `.gitignore`
+- Work on your app, committing and pushing changes as you go along.
+
+
+### Reading Assignment
+
+- Read [Enumerations](https://docs.swift.org/swift-book/LanguageGuide/Enumerations.html)
+- Read [Structures and Classes](https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html)
+
+- Human Interface Guidelines
+  - Read [Motion](https://developer.apple.com/design/human-interface-guidelines/foundations/motion)
+  - Read [Right to left](https://developer.apple.com/design/human-interface-guidelines/foundations/right-to-left)
+
+### Resources
+
+- [ImageOptim](https://imageoptim.com/)
+
+<hr />
 ## 06 — A New App
 
 2022-09-12, Monday
@@ -28,6 +60,17 @@ title: ATLAS — Mobile App Development
 - Human Interface Guidelines
   - Read [Layout](https://developer.apple.com/design/human-interface-guidelines/foundations/layout)
   - Read [Materials](https://developer.apple.com/design/human-interface-guidelines/foundations/materials)
+
+
+<!--
+Questions:
+
+- How do we avoid displaying our content under the keyboard, where it isn't
+accessible?
+- What kind of changes do we need to be able to respond to?
+  - keyboard, device orientation, text size, iPad split screen
+
+-->
 
 <hr />
 
