@@ -18,7 +18,7 @@ title: ATLAS — Mobile App Development
 - Get up-to-date on the recent repo assignments:
   - Make sure I have your GitHub username in [`github_usernames.txt`](https://github.com/zef/ATLAS-iOS/blob/main/github_usernames.txt)
   - Make sure you have an app idea documented in your class repo at `ATLAS-iOS-Fall-22`.
-  - Add the `config.yaml` file as listed the Assignment from `06`
+  - Add the `config.yml` file as listed the Assignment from `06`
 - Add `name: Your Name` to that config file, as well.
 - Don't commit `.DS_Store` files to git. Please [remove them](https://stackoverflow.com/questions/107701/how-can-i-remove-ds-store-files-from-a-git-repository) I recommend ignoring it at a global
 level on your machine, but you can also add it to your project's `.gitignore`
