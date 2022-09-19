@@ -7,6 +7,23 @@ title: ATLAS — Mobile App Development
 [zef.houssney@colorado.edu](mailto:zef.houssney@colorado.edu)
 
 <hr />
+## 08 — Live Coding
+
+2022-09-19, Monday
+
+### Assignment:
+
+- Work on your student project. Commit some stuff.
+
+### Reading Assignment
+
+- Read [Properties](https://docs.swift.org/swift-book/LanguageGuide/Properties.html)
+- Read [Methods](https://docs.swift.org/swift-book/LanguageGuide/Methods.html)
+
+- Human Interface Guidelines
+  - Read [SF Symbols](https://developer.apple.com/design/human-interface-guidelines/foundations/sf-symbols)
+
+<hr />
 ## 07 — App Lab
 
 2022-09-14, Wednesday
