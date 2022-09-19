@@ -23,6 +23,8 @@ title: ATLAS — Mobile App Development
 - Human Interface Guidelines
   - Read [SF Symbols](https://developer.apple.com/design/human-interface-guidelines/foundations/sf-symbols)
 
+    Check out WWDC Sessions for more.
+
 <hr />
 ## 07 — App Lab
 
