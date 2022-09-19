@@ -13,7 +13,7 @@ title: ATLAS — Mobile App Development
 
 ### Assignment:
 
-- Make a group of 3-4 students in which you will do code reviews and provide feedback for oneanother.
+- Make a group of 3-4 students in which you will do code reviews and provide feedback for one another.
 
 - Get up-to-date on the recent repo assignments:
   - Make sure I have your GitHub username in [`github_usernames.txt`](https://github.com/zef/ATLAS-iOS/blob/main/github_usernames.txt)
