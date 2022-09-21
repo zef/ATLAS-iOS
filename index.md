@@ -7,6 +7,32 @@ title: ATLAS — Mobile App Development
 [zef.houssney@colorado.edu](mailto:zef.houssney@colorado.edu)
 
 <hr />
+## 09 — Live Coding
+
+2022-09-21, Wednesday
+
+### Assignment:
+
+- Work on your student project. Commit some stuff.
+
+### Reading Assignment
+
+- Read [Subscripts](https://docs.swift.org/swift-book/LanguageGuide/Subscripts.html)
+- Read [Inheritance](https://docs.swift.org/swift-book/LanguageGuide/Inheritance.html)
+
+- Human Interface Guidelines
+  - Read [Typography](https://developer.apple.com/design/human-interface-guidelines/foundations/typography)
+
+### Database Resources
+
+- [UserDefaults](https://developer.apple.com/documentation/foundation/userdefaults)
+  - [Using Property Wrappers](https://www.jessesquires.com/blog/2021/03/26/a-better-approach-to-writing-a-userdefaults-property-wrapper/)
+- [Core Data](https://developer.apple.com/documentation/coredata)
+- [Realm](https://realm.io/realm-swift/)
+- [Firebase](https://firebase.google.com/docs/ios/setup)
+  - [Tutorial](https://www.raywenderlich.com/29394678-firebase-real-time-database-tutorial-for-ios)
+
+<hr />
 ## 08 — Live Coding
 
 2022-09-19, Monday
