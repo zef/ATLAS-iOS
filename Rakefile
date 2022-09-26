@@ -19,8 +19,10 @@ task :server do
 end
 
 task :build_repo_tool do
-  `xcodebuild -project update-student-repos/update-student-repos.xcodeproj`
-  `mv update-student-repos/build/Release/update-student-repos update-repos`
+  if system 'xcodebuild -project update-student-repos/update-student-repos.xcodeproj'
+    `mv update-student-repos/build/Release/update-student-repos update-repos`
+    system './update-repos'
+  end
 end
 
 task default: [:publish_html] do
