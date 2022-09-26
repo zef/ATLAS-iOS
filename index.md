@@ -7,6 +7,30 @@ title: ATLAS — Mobile App Development
 [zef.houssney@colorado.edu](mailto:zef.houssney@colorado.edu)
 
 <hr />
+## 10 — Feedback
+
+2022-09-26, Monday
+
+- [Slides](10-Feedback.html)
+
+### Assignment:
+
+- UX/UI Criticism
+- Due Monday, October 3
+
+### Reading Assignment
+
+- Read [Dark Patterns](https://neal.fun/dark-patterns/)
+
+- Read [Initialization](https://docs.swift.org/swift-book/LanguageGuide/Initialization.html)
+
+
+### Resources
+
+- [On Giving and Receiving Feedback](https://zef.studio/journal/feedback/)
+
+
+<hr />
 ## 09 — Live Coding
 
 2022-09-21, Wednesday

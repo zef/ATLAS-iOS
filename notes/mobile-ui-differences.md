@@ -1,0 +1,17 @@
+- no mouse
+  - hover states
+  - precision
+  - tap target size — 44px
+  - right-clicks
+  - mobile
+    — gestures
+    - long-press
+- smaller screens
+  - limited variations
+- Dark mode compatibility
+- More accessibility features
+- keyboard differences
+  - no physical keys
+- more consistent experience.
+    - Predictable functionality
+    - feature testing
