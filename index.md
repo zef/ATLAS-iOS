@@ -12,22 +12,42 @@ title: ATLAS — Mobile App Development
 2022-09-26, Monday
 
 - [Slides](10-Feedback.html)
+- [On Giving and Receiving Feedback](https://zef.studio/journal/feedback/)
 
-### Assignment:
+### Assignment: UX/UI Criticism
 
-- UX/UI Criticism
-- Due Monday, October 3
+**Due Monday, October 3**
+
+1. **Identify a UI/UX problem or bug in any piece of software, but preferably a mobile app.**
+
+Demonstrate the problem in a short video. Provide suggestions for improvement
+and propose how it could be fixed.  Discuss trade-offs involved in different
+approaches.
+
+2. **Identify and share one delightful or thoughtful piece of interface design.**
+
+Show it off in a short video. Explain why you like it or what's good about it.
+
+3. **Upload the videos** to your personal project repo, or anywhere they can be
+   accessed publicly — like a unlisted YouTube video. Post the links
+   in your repo README.
+
+4. **Be prepared to present** the videos to the class on Monday. You can say a
+   few words in class, or otherwise make sure your video contains everything you
+   want to share. You may be able to plug in your computer to the display if
+   needed.
+
+
+You can [record your screen on iOS](https://support.apple.com/en-us/HT207935)
+from the Control Center. Note that if you long-press on the record button in
+Control Center, you can choose whether to include the microphone in the recording or
+not.
+
 
 ### Reading Assignment
 
-- Read [Dark Patterns](https://neal.fun/dark-patterns/)
-
+- Read [Dark Patterns from neal.fun](https://neal.fun/dark-patterns/). Note that the examples are interactive.
 - Read [Initialization](https://docs.swift.org/swift-book/LanguageGuide/Initialization.html)
-
-
-### Resources
-
-- [On Giving and Receiving Feedback](https://zef.studio/journal/feedback/)
 
 
 <hr />

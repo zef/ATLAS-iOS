@@ -18,6 +18,7 @@ task :server do
   `marp -s ./slides`
 end
 
+desc "Build the update repo tool, and run it if the build is successful."
 task :build_repo_tool do
   if system 'xcodebuild -project update-student-repos/update-student-repos.xcodeproj'
     `mv update-student-repos/build/Release/update-student-repos update-repos`

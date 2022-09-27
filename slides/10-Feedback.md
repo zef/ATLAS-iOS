@@ -26,6 +26,10 @@ section.end h1 {
 
 ---
 
+[On Giving and Receiving Feedback](https://zef.studio/journal/feedback/)
+
+---
+
 ### How does designing UI for a mobile app differ from designing for the web?
 
 <!--
