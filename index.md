@@ -4,7 +4,28 @@ title: ATLAS — Mobile App Development
 
 ### [Syllabus](syllabus.html) • [GitHub Repo](https://github.com/zef/ATLAS-iOS) • [Vocabulary](vocabulary.html)
 
+### [Repo Requirements](repo_requirements.html)
+
 [zef.houssney@colorado.edu](mailto:zef.houssney@colorado.edu)
+
+<hr />
+## 11 — Getting Data Into Models
+
+2022-09-28, Wednesday
+
+- [Up Ahead](https://twitter.com/danielmgauthier/status/1575107017294827520) app
+
+### Assignment — `11-models-from-data`
+
+**Due Monday, October 3**
+
+- Write some code that takes a data source and creates Model objects out of it.
+- This code can be in your project app, or can be isolated sample code.
+- Add the link to the code on GitHub to with the key `11-models-from-data` to
+your config file, as specified in [Repo Requirements](repo_requirements.html).
+
+[See this GitHub issue](https://github.com/zef/ATLAS-iOS/issues/22) for the links we used in class.
+
 
 <hr />
 ## 10 — Feedback

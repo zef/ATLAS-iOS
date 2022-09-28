@@ -4,8 +4,9 @@ task :compile_sass do
 end
 
 task publish_html: [:compile_sass] do
-  `pandoc -s -c sakura-zef.css -o html/vocabulary.html vocabulary.md`
-  `pandoc -s -c sakura-zef.css -o html/index.html index.md`
+  for file in %w(index vocabulary repo_requirements)
+    `pandoc -s -c sakura-zef.css -o html/#{file}.html #{file}.md`
+  end
 end
 
 desc "Generate HTML files for slides, starts watching for changes."
@@ -18,10 +19,12 @@ task :server do
   `marp -s ./slides`
 end
 
+BUILD_DIR = "/Users/zef/Library/Developer/Xcode/DerivedData/update-student-repos-bqdddstmdtcifkbjiwhuxphecwtf/Build/Products/Debug/"
+
 desc "Build the update repo tool, and run it if the build is successful."
 task :build_repo_tool do
-  if system 'xcodebuild -project update-student-repos/update-student-repos.xcodeproj'
-    `mv update-student-repos/build/Release/update-student-repos update-repos`
+  if system 'xcodebuild -scheme update-student-repos -project update-student-repos/update-student-repos.xcodeproj'
+    `mv #{BUILD_DIR}/update-student-repos update-repos`
     system './update-repos'
   end
 end
