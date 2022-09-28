@@ -13,7 +13,12 @@ title: ATLAS — Mobile App Development
 
 2022-09-28, Wednesday
 
+## Recording of Class
+
+- [Part One](https://www.youtube.com/watch?v=0XVq2jcj6rg)
+- [Part Two](https://www.youtube.com/watch?v=UP5v9pDCb-M)
 - [Up Ahead](https://twitter.com/danielmgauthier/status/1575107017294827520) app
+- [Star Wars App Code](https://github.com/zef/StarWars)
 
 ### Assignment — `11-models-from-data`
 
