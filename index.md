@@ -23,6 +23,7 @@ title: ATLAS — Mobile App Development
 - [Up Ahead](https://twitter.com/danielmgauthier/status/1575107017294827520) app
 - [Star Wars App Code](https://github.com/zef/StarWars)
 - [Star Wars API](https://swapi.dev)
+- [See this GitHub issue](https://github.com/zef/ATLAS-iOS/issues/22) for the links we used in class.
 
 ### Assignment — `11-models-from-data`
 
@@ -32,8 +33,6 @@ title: ATLAS — Mobile App Development
 - This code can be in your project app, or can be isolated sample code.
 - Add the link to the code on GitHub to with the key `11-models-from-data` to
 your config file, as specified in [Repo Requirements](repo_requirements.html).
-
-[See this GitHub issue](https://github.com/zef/ATLAS-iOS/issues/22) for the links we used in class.
 
 
 <hr />
