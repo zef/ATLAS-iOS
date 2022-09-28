@@ -10,6 +10,7 @@
 		8D7D75D328CF975F009058FF /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D7D75D228CF975F009058FF /* main.swift */; };
 		8D7D75DA28CFA621009058FF /* Shell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D7D75D928CFA621009058FF /* Shell.swift */; };
 		8D7D75DC28CFBB27009058FF /* Repo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D7D75DB28CFBB27009058FF /* Repo.swift */; };
+		8D82F25028E403D800840700 /* Yams in Frameworks */ = {isa = PBXBuildFile; productRef = 8D82F24F28E403D800840700 /* Yams */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -36,6 +37,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8D82F25028E403D800840700 /* Yams in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -84,6 +86,9 @@
 			dependencies = (
 			);
 			name = "update-student-repos";
+			packageProductDependencies = (
+				8D82F24F28E403D800840700 /* Yams */,
+			);
 			productName = "update-student-repos";
 			productReference = 8D7D75CF28CF975F009058FF /* update-student-repos */;
 			productType = "com.apple.product-type.tool";
@@ -112,6 +117,9 @@
 				Base,
 			);
 			mainGroup = 8D7D75C628CF975F009058FF;
+			packageReferences = (
+				8D82F24E28E403D800840700 /* XCRemoteSwiftPackageReference "Yams" */,
+			);
 			productRefGroup = 8D7D75D028CF975F009058FF /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -254,6 +262,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = KGXARQ9UAS;
 				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
@@ -265,6 +274,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = KGXARQ9UAS;
 				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
@@ -292,6 +302,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		8D82F24E28E403D800840700 /* XCRemoteSwiftPackageReference "Yams" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/jpsim/Yams.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		8D82F24F28E403D800840700 /* Yams */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8D82F24E28E403D800840700 /* XCRemoteSwiftPackageReference "Yams" */;
+			productName = Yams;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 8D7D75C728CF975F009058FF /* Project object */;
 }

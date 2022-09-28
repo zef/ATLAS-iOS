@@ -22,5 +22,6 @@ let users = usernames.components(separatedBy: .whitespacesAndNewlines)
 
 for user in users {
     let repo = Repo(user: user)
-    repo.cloneOrUpdate()
+    let _ = Config(path: repo.configPath)
+//    repo.cloneOrUpdate()
 }
