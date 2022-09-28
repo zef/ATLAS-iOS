@@ -42,7 +42,7 @@ repo_names:
 
 # Provide any URLs for your Data Models assignment
 11-models-from-data:
-  - https://github.com/zef/ATLAS-iOS/blob/main/update-student-repos/update-student-repos/Repo.swift#L33
+  - https://github.com/zef/StarWars/blob/main/StarWars/Person.swift#L16
 ```
 
 - Keys must be followed by a `: `, including a space after the colon.

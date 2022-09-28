@@ -9,7 +9,7 @@ title: ATLAS — Mobile App Development
 [zef.houssney@colorado.edu](mailto:zef.houssney@colorado.edu)
 
 <hr />
-## 11 — Getting Data Into Models
+## 11 — Models from Data
 
 2022-09-28, Wednesday
 
@@ -17,8 +17,12 @@ title: ATLAS — Mobile App Development
 
 - [Part One](https://www.youtube.com/watch?v=0XVq2jcj6rg)
 - [Part Two](https://www.youtube.com/watch?v=UP5v9pDCb-M)
+
+### Other Resources
+
 - [Up Ahead](https://twitter.com/danielmgauthier/status/1575107017294827520) app
 - [Star Wars App Code](https://github.com/zef/StarWars)
+- [Star Wars API](https://swapi.dev)
 
 ### Assignment — `11-models-from-data`
 
