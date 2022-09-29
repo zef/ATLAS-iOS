@@ -10,19 +10,21 @@ import Yams
 
 struct Config: Codable {
     var name: String
-    var personal_project: String
+    var repo_names: [String]
+    var assignment10: [String]
+//    var assignment11: [String]
+
+    enum CodingKeys: String, CodingKey {
+        case name
+        case repo_names
+        case assignment10 = "10-ux-ui-criticism"
+//        case assignment11 = "11-models-from-data"
+    }
 
     init?(path: String) {
 //        FileManager.default
         guard let yaml = try? String(contentsOf: URL(fileURLWithPath: path), encoding: .utf8) else {
             print("no file found")
-            return nil
-        }
-
-        func parameter(named name: String, from line: String) -> String? {
-            if line.contains(name), let value = line.split(separator: ":").last {
-                return value.trimmingCharacters(in: .whitespacesAndNewlines)
-            }
             return nil
         }
 
@@ -49,17 +51,32 @@ struct Config: Codable {
     }
 }
 
+struct User {
+    let username: String
+
+    var targetPath: String {
+        "\(studentProjectDirectory)/\(username)"
+    }
+
+    var classRepo: Repo {
+        Repo(name: Repo.classRepoName, user: self)
+    }
+
+
+}
+
 struct Repo {
     private let manager = FileManager.default
+    static var classRepoName = "ATLAS-iOS-Fall-22"
 
-    let user: String
-    let repoName = "ATLAS-iOS-Fall-22"
+    let name: String
+    let user: User
 
     var gitPath: String {
-        "\(user)/\(repoName)"
+        "\(user.username)/\(name)"
     }
     var targetPath: String {
-        "\(targetDirectory)/\(user)"
+        "\(user.targetPath)/\(name)"
     }
     var configPath: String {
         "\(targetPath)/config.yml"

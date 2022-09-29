@@ -19,7 +19,7 @@ task :server do
   `marp -s ./slides`
 end
 
-BUILD_DIR = "/Users/zef/Library/Developer/Xcode/DerivedData/update-student-repos-bqdddstmdtcifkbjiwhuxphecwtf/Build/Products/Debug/"
+BUILD_DIR = "/Users/zef/Library/Developer/Xcode/DerivedData/update-student-repos-dbcwrtdhixrytjatyrldviecxzxw/Build/Products/Debug/"
 
 desc "Build the update repo tool, and run it if the build is successful."
 task :build_repo_tool do

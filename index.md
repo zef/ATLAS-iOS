@@ -9,6 +9,15 @@ title: ATLAS — Mobile App Development
 [zef.houssney@colorado.edu](mailto:zef.houssney@colorado.edu)
 
 <hr />
+## 12 — UI Critique
+
+- Xcode Shortcuts
+  - [Key Combiner](https://keycombiner.com/collections/xcode/)
+  - [Shortcuts PDF](https://swifteducation.github.io/assets/pdfs/XcodeKeyboardShortcuts.pdf)
+
+
+
+<hr />
 ## 11 — Models from Data
 
 2022-09-28, Wednesday

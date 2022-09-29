@@ -7,7 +7,7 @@
 
 import Foundation
 
-let targetDirectory = "StudentProjects"
+let studentProjectDirectory = "../StudentProjects"
 
 let filename = "github_usernames.txt"
 let url = URL(fileURLWithPath: filename)
@@ -20,8 +20,9 @@ guard let usernames = try? String(contentsOf: url) else {
 let users = usernames.components(separatedBy: .whitespacesAndNewlines)
     .filter { !$0.isEmpty }
 
-for user in users {
-    let repo = Repo(user: user)
-    let _ = Config(path: repo.configPath)
+for username in users {
+    let user = User(username: username)
+    user.classRepo.cloneOrUpdate()
+//    let _ = Config(path: repo.configPath)
 //    repo.cloneOrUpdate()
 }
