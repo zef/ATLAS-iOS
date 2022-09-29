@@ -29,6 +29,11 @@ task :build_repo_tool do
   end
 end
 
+desc "Run the update repos tool."
+task :repos do
+  system './update-repos'
+end
+
 task default: [:publish_html] do
 end
 
