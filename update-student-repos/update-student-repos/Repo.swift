@@ -8,53 +8,44 @@
 import Foundation
 import Yams
 
-struct Config: Codable {
+struct Config {
+    var username: String
+    var data: [String: Any]
+
     var name: String
-    var repo_names: [String]
+    var repoNames: [String]
     var assignment10: [String]
-//    var assignment11: [String]
+    var assignment11: [String]
 
-    enum CodingKeys: String, CodingKey {
-        case name
-        case repo_names
-        case assignment10 = "10-ux-ui-criticism"
-//        case assignment11 = "11-models-from-data"
-    }
+    init?(path: String, username: String) {
+        self.username = username
 
-    init?(path: String) {
-//        FileManager.default
         guard let yaml = try? String(contentsOf: URL(fileURLWithPath: path), encoding: .utf8) else {
-            print("no file found")
+            print("No yaml file found at \(path)")
             return nil
         }
 
-        do {
-            let decoder = YAMLDecoder()
-            let decoded = try decoder.decode(Config.self, from: yaml)
-            print("Decoded object!", decoded)
-        } catch let error {
-            print("Could not decode yaml", error)
+        guard let data = try? Yams.load(yaml: yaml) as? [String: Any] else {
+            print("Could not decode yaml for \(username).")
+            print(yaml)
+            return nil
         }
 
-        // I can't get the YAMS library to build, so going to
-        // quckly parse it myself
-        print(yaml)
-//        for line in yaml.split(separator: "\n") {
-//            if let name = parameter(named: "name", from: String(line)) {
-//                self.name = name
-//            }
-//            if let project = parameter(named: "personal_project", from: String(line)) {
-//                self.personal_project = project
-//            }
-//        }
-        return nil
+        self.data = data
+        print("data for", username)
+        print(data)
+
+        self.name = data["name"] as? String ?? username
+        self.repoNames = data["repo_names"] as? [String] ?? []
+        self.assignment10 = data["10-ux-ui-criticism"] as? [String] ?? []
+        self.assignment11 = data["11-models-from-data"] as? [String] ?? []
     }
 }
 
 struct User {
     let username: String
 
-    var targetPath: String {
+    var localPath: String {
         "\(studentProjectDirectory)/\(username)"
     }
 
@@ -62,7 +53,10 @@ struct User {
         Repo(name: Repo.classRepoName, user: self)
     }
 
-
+    var config: Config? {
+        let path = "\(classRepo.localPath)/config.yml"
+        return Config(path: path, username: username)
+    }
 }
 
 struct Repo {
@@ -75,30 +69,23 @@ struct Repo {
     var gitPath: String {
         "\(user.username)/\(name)"
     }
-    var targetPath: String {
-        "\(user.targetPath)/\(name)"
-    }
-    var configPath: String {
-        "\(targetPath)/config.yml"
+    var localPath: String {
+        "\(user.localPath)/\(name)"
     }
 
     var existsOnDisk: Bool {
-        manager.fileExists(atPath: targetPath)
+        manager.fileExists(atPath: localPath)
     }
-
-//    var config: Config {
-//
-//    }
 
     func pull() {
         print("Pulling for \(user)")
-        let command = "git -C \(targetPath) pull"
+        let command = "git -C \(localPath) pull"
         print(Shell.execute(command))
     }
 
     func clone() {
         print("Cloning \(gitPath)")
-        let command = "git clone git@github.com:\(gitPath).git \(targetPath)"
+        let command = "git clone git@github.com:\(gitPath).git \(localPath)"
         print(Shell.execute(command))
     }
 

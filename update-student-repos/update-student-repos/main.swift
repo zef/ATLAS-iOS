@@ -12,17 +12,36 @@ let studentProjectDirectory = "../StudentProjects"
 let filename = "github_usernames.txt"
 let url = URL(fileURLWithPath: filename)
 
-guard let usernames = try? String(contentsOf: url) else {
+guard let usernameText = try? String(contentsOf: url) else {
     print("Could not read file.")
     exit(1)
 }
 
-let users = usernames.components(separatedBy: .whitespacesAndNewlines)
+let usernames = usernameText.components(separatedBy: .whitespacesAndNewlines)
     .filter { !$0.isEmpty }
 
-for username in users {
-    let user = User(username: username)
-    user.classRepo.cloneOrUpdate()
-//    let _ = Config(path: repo.configPath)
-//    repo.cloneOrUpdate()
+let users: [User] = usernames.map { User(username: $0) }
+let configFiles = users.compactMap { $0.config }
+
+func updateClassRepos() {
+    for user in users {
+        user.classRepo.cloneOrUpdate()
+    }
 }
+
+func updatePersonalRepos() {
+//    for user in users {
+//        for user.config?.repoNames
+//    }
+}
+
+
+//let assignmentURLs = configFiles.reduce([String]()) { list, config in
+//    var list = list
+//    print(config.assignment11)
+//    list.append(contentsOf: config.assignment11)
+//    return list
+//}
+//
+//print("Assignment URLs:", assignmentURLs)
+

@@ -13,7 +13,7 @@ It's important that all the details for this
 ## Your Class Repo:
 
 - Must have a file called `config.yml` at the root.
-- Must not contain `.DS_Store` files in git. Please [remove them](https://stackoverflow.com/questions/107701/how-can-i-remove-ds-store-files-from-a-git-repository) I recommend ignoring it at a global level on your machine, but you can also add it to your project's `.gitignore` file.
+- Must not contain `.DS_Store` files in git. Please [remove them](https://stackoverflow.com/questions/107701/how-can-i-remove-ds-store-files-from-a-git-repository). I recommend ignoring these files at a global level on your machine, but you can also add it to your project's `.gitignore` file.
 
 
 ## Your `config.yml` file:
