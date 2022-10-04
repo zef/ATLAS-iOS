@@ -21,7 +21,6 @@ let usernames = usernameText.components(separatedBy: .whitespacesAndNewlines)
     .filter { !$0.isEmpty }
 
 let users: [User] = usernames.map { User(username: $0) }
-let configFiles = users.compactMap { $0.config }
 
 func updateClassRepos() {
     for user in users {
@@ -34,6 +33,20 @@ func updatePersonalRepos() {
 //        for user.config?.repoNames
 //    }
 }
+
+func combineDataForAssignment(named key: String) {
+    for user in users { guard let config = user.config else { continue }
+        print("\(config.name):")
+        for url in config.assignment10 {
+            print(url)
+        }
+        print("")
+    }
+}
+
+updateClassRepos()
+combineDataForAssignment(named: "10-ux-ui-criticism")
+
 
 
 //let assignmentURLs = configFiles.reduce([String]()) { list, config in

@@ -6,41 +6,6 @@
 //
 
 import Foundation
-import Yams
-
-struct Config {
-    var username: String
-    var data: [String: Any]
-
-    var name: String
-    var repoNames: [String]
-    var assignment10: [String]
-    var assignment11: [String]
-
-    init?(path: String, username: String) {
-        self.username = username
-
-        guard let yaml = try? String(contentsOf: URL(fileURLWithPath: path), encoding: .utf8) else {
-            print("No yaml file found at \(path)")
-            return nil
-        }
-
-        guard let data = try? Yams.load(yaml: yaml) as? [String: Any] else {
-            print("Could not decode yaml for \(username).")
-            print(yaml)
-            return nil
-        }
-
-        self.data = data
-        print("data for", username)
-        print(data)
-
-        self.name = data["name"] as? String ?? username
-        self.repoNames = data["repo_names"] as? [String] ?? []
-        self.assignment10 = data["10-ux-ui-criticism"] as? [String] ?? []
-        self.assignment11 = data["11-models-from-data"] as? [String] ?? []
-    }
-}
 
 struct User {
     let username: String

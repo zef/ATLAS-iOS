@@ -11,11 +11,19 @@ title: ATLAS — Mobile App Development
 <hr />
 ## 12 — UI Critique
 
-- Xcode Shortcuts
+2022-10-03, Monday
+
+We watched UI/UX critique videos.
+
+## Recording of Class
+
+- [Part One](https://youtu.be/HNQOiRYAA4Y)
+- [Part Two](https://youtu.be/AOxLT4Ib4is)
+
+- Check out Xcode Shortcuts, especially how to indent code:
   - [Key Combiner](https://keycombiner.com/collections/xcode/)
   - [Shortcuts PDF](https://swifteducation.github.io/assets/pdfs/XcodeKeyboardShortcuts.pdf)
-
-
+  - Indent a selected block of code with `⌃-I`
 
 <hr />
 ## 11 — Models from Data
