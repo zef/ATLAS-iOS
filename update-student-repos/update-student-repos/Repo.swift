@@ -43,7 +43,7 @@ struct Repo {
     }
 
     func pull() {
-        print("Pulling for \(user)")
+        print("Pulling \(gitPath)")
         let command = "git -C \(localPath) pull"
         print(Shell.execute(command))
     }

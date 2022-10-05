@@ -14,8 +14,6 @@ struct Config {
 
     var name: String
     var repoNames: [String]
-    var assignment10: [String]
-    var assignment11: [String]
 
     init?(path: String, username: String) {
         self.username = username
@@ -40,8 +38,6 @@ struct Config {
 
         self.name = data["name"] as? String ?? username
         self.repoNames = data["repo_names"] as? [String] ?? []
-        self.assignment10 = data["10-ux-ui-criticism"] as? [String] ?? []
-        self.assignment11 = data["11-models-from-data"] as? [String] ?? []
     }
 }
 

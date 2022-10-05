@@ -28,24 +28,33 @@ func updateClassRepos() {
     }
 }
 
-func updatePersonalRepos() {
-//    for user in users {
-//        for user.config?.repoNames
-//    }
+func updateAllRepos() {
+    for user in users {
+        user.classRepo.cloneOrUpdate()
+        guard let config = user.config else { continue }
+        for name in config.repoNames {
+            let repo = Repo(name: name, user: user)
+            repo.cloneOrUpdate()
+        }
+    }
 }
 
 func combineDataForAssignment(named key: String) {
-    for user in users { guard let config = user.config else { continue }
+    for user in users {
+        guard let config = user.config else { continue }
         print("\(config.name):")
-        for url in config.assignment10 {
+        guard let lines = config.data[key] as? [String] else { continue }
+        for url in lines {
             print(url)
         }
         print("")
     }
 }
 
-updateClassRepos()
+//updateAllRepos()
+//updateClassRepos()
 combineDataForAssignment(named: "10-ux-ui-criticism")
+//combineDataForAssignment(named: "11-models-from-data")
 
 
 
