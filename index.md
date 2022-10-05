@@ -9,7 +9,7 @@ title: ATLAS — Mobile App Development
 [zef.houssney@colorado.edu](mailto:zef.houssney@colorado.edu)
 
 <hr />
-## 13 — UI Critique
+## 13 — UI Critique and some Refactoring.
 
 2022-10-05, Wednesday
 
