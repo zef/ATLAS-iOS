@@ -9,6 +9,34 @@ title: ATLAS — Mobile App Development
 [zef.houssney@colorado.edu](mailto:zef.houssney@colorado.edu)
 
 <hr />
+## 13 — UI Critique
+
+2022-10-05, Wednesday
+
+Continuing some UI critique that we didn't finish on Monday.
+
+### Resources
+
+- Recent [codable video tutorial](https://www.youtube.com/watch?v=H9mt8WjpZgM)
+
+### Assignment: Project Check-In
+
+**Due Wednesday, October 12**
+
+Create an issue in your Class Repo `ATLAS-iOS-Fall-22` in which you will do the
+following:
+
+- Upload screenshots of screens you've implemented
+- Add a checklist of next-steps to continue development
+- Write a bit about what you've been learning. Feel free to answer any of the
+following:
+  - Is anything particularly exciting to you about what you've accomplished so
+  far?
+  - Do you have any specific questions about how to proceed?
+  - Has your app idea and plan changed? How?
+  - What have been the most challenging aspects so far?
+
+<hr />
 ## 12 — UI Critique
 
 2022-10-03, Monday
