@@ -2,6 +2,11 @@
 title: Vocabulary
 ---
 
+## DRY
+
+Don't Repeat Yourself
+
+
 ## API
 
 "Application Programming Interface"

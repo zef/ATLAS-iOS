@@ -15,6 +15,8 @@ title: ATLAS — Mobile App Development
 
 Continuing some UI critique that we didn't finish on Monday.
 
+## [Recording of Class](https://youtu.be/UidDom1EgeU)
+
 ### Resources
 
 - Recent [codable video tutorial](https://www.youtube.com/watch?v=H9mt8WjpZgM)

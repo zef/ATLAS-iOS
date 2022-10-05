@@ -51,10 +51,10 @@ func combineDataForAssignment(named key: String) {
     }
 }
 
-updateAllRepos()
+//updateAllRepos()
 //updateClassRepos()
-combineDataForAssignment(named: "10-ux-ui-criticism")
-//combineDataForAssignment(named: "11-models-from-data")
+//combineDataForAssignment(named: "10-ux-ui-criticism")
+combineDataForAssignment(named: "11-models-from-data")
 
 
 
