@@ -13,10 +13,10 @@ title: ATLAS — Mobile App Development
 
 2022-10-10, Monday
 
-[Slides](4-APIs.html)
+- [Slides](14-APIs.html)
+- [Recording of Class](https://www.youtube.com/watch?v=l3yNjK6PODU)
 
 ### Resources
-
 
 - [Simple request](https://www.hackingwithswift.com/read/7/3/parsing-json-using-the-codable-protocol) with `Data(contentsOf: url)`
 - More in-depth on [Swift Web Requests](https://cocoacasts.com/networking-fundamentals-how-to-make-an-http-request-in-swift) with `URLSession`

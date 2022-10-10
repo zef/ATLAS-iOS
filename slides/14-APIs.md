@@ -53,7 +53,7 @@ commit them into git.
 
 ### User Interfaces with Web Data
 
-* Network Link Conditioner
+* Use Network Link Conditioner to simulate bad network conditions.
 
 ---
 
