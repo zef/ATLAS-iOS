@@ -24,6 +24,7 @@ title: ATLAS — Mobile App Development
 - [Async/Await](https://developer.apple.com/videos/play/wwdc2021/10132) WWDC Video.
 - [Async/Await](https://www.avanderlee.com/swift/async-await/) blog post.
 
+- [Network Link Conditioner](https://nshipster.com/network-link-conditioner/)
 
 <hr />
 ## 13 — UI Critique and some Refactoring.
