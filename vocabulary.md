@@ -6,6 +6,8 @@ title: Vocabulary
 
 Don't Repeat Yourself
 
+When you need to use the same logic in multiple places, instead of copying and
+pasting the code, put it in a function that can be used in multiple places.
 
 ## API
 

@@ -9,6 +9,23 @@ title: ATLAS — Mobile App Development
 [zef.houssney@colorado.edu](mailto:zef.houssney@colorado.edu)
 
 <hr />
+## 14 — APIs and Web Requests
+
+2022-10-10, Monday
+
+[Slides](4-APIs.html)
+
+### Resources
+
+
+- [Simple request](https://www.hackingwithswift.com/read/7/3/parsing-json-using-the-codable-protocol) with `Data(contentsOf: url)`
+- More in-depth on [Swift Web Requests](https://cocoacasts.com/networking-fundamentals-how-to-make-an-http-request-in-swift) with `URLSession`
+
+- [Async/Await](https://developer.apple.com/videos/play/wwdc2021/10132) WWDC Video.
+- [Async/Await](https://www.avanderlee.com/swift/async-await/) blog post.
+
+
+<hr />
 ## 13 — UI Critique and some Refactoring.
 
 2022-10-05, Wednesday
