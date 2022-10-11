@@ -43,6 +43,8 @@ repo_names:
 # Provide any URLs for your Data Models assignment
 11-models-from-data:
   - https://github.com/zef/StarWars/blob/main/StarWars/Person.swift#L16
+
+project-check-in-1: GITHUB_ISSUE_URL
 ```
 
 - Keys must be followed by a `: `, including a space after the colon.

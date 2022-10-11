@@ -40,11 +40,12 @@ Continuing some UI critique that we didn't finish on Monday.
 
 **Due Wednesday, October 12**
 
-Create an issue in your Class Repo `ATLAS-iOS-Fall-22` in which you will do the
+Create an issue in your Class Repo (`ATLAS-iOS-Fall-22`) in which you will do the
 following:
 
-- Upload screenshots of screens you've implemented
-- Add a checklist of next-steps to continue development
+- Upload screenshots of screens you've implemented.
+- Add a checklist of next-steps to continue development. Use the [GitHub Task
+List syntax](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-task-lists).
 - Write a bit about what you've been learning. Feel free to answer any of the
 following:
   - Is anything particularly exciting to you about what you've accomplished so
@@ -52,6 +53,9 @@ following:
   - Do you have any specific questions about how to proceed?
   - Has your app idea and plan changed? How?
   - What have been the most challenging aspects so far?
+- Add the GitHub Issue URL to [your config file](repo_requirements.html) and to the canvas assignment.
+  - config file format: `project-check-in-1: GITHUB_ISSUE_URL`
+
 
 <hr />
 ## 12 — UI Critique
