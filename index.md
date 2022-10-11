@@ -20,11 +20,8 @@ title: ATLAS — Mobile App Development
 
 - [Simple request](https://www.hackingwithswift.com/read/7/3/parsing-json-using-the-codable-protocol) with `Data(contentsOf: url)`
 - More in-depth on [Swift Web Requests](https://cocoacasts.com/networking-fundamentals-how-to-make-an-http-request-in-swift) with `URLSession`
-
 - [Async/Await](https://developer.apple.com/videos/play/wwdc2021/10132) WWDC Video.
 - [Async/Await](https://www.avanderlee.com/swift/async-await/) blog post.
-
-- [Network Link Conditioner](https://nshipster.com/network-link-conditioner/)
 
 <hr />
 ## 13 — UI Critique and some Refactoring.
@@ -33,7 +30,7 @@ title: ATLAS — Mobile App Development
 
 Continuing some UI critique that we didn't finish on Monday.
 
-## [Recording of Class](https://youtu.be/UidDom1EgeU)
+- [Recording of Class](https://youtu.be/UidDom1EgeU)
 
 ### Resources
 
@@ -67,6 +64,8 @@ We watched UI/UX critique videos.
 
 - [Part One](https://youtu.be/HNQOiRYAA4Y)
 - [Part Two](https://youtu.be/AOxLT4Ib4is)
+
+### Resources
 
 - Check out Xcode Shortcuts, especially how to indent code:
   - [Key Combiner](https://keycombiner.com/collections/xcode/)
@@ -157,7 +156,6 @@ not.
 
 - Read [Subscripts](https://docs.swift.org/swift-book/LanguageGuide/Subscripts.html)
 - Read [Inheritance](https://docs.swift.org/swift-book/LanguageGuide/Inheritance.html)
-
 - Human Interface Guidelines
   - Read [Typography](https://developer.apple.com/design/human-interface-guidelines/foundations/typography)
 
@@ -183,7 +181,6 @@ not.
 
 - Read [Properties](https://docs.swift.org/swift-book/LanguageGuide/Properties.html)
 - Read [Methods](https://docs.swift.org/swift-book/LanguageGuide/Methods.html)
-
 - Human Interface Guidelines
   - Read [SF Symbols](https://developer.apple.com/design/human-interface-guidelines/foundations/sf-symbols)
 
