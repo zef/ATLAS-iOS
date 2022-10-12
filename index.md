@@ -19,8 +19,7 @@ title: ATLAS — Mobile App Development
 
 ### Resources
 
-- [Network Link Conditioner](https://nshipster.com/network-link-conditioner/)
-on Mac and iOS
+- [Network Link Conditioner](https://nshipster.com/network-link-conditioner/) on Mac and iOS
 
 #### HTTP Tools
 
