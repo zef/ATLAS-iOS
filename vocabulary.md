@@ -2,6 +2,16 @@
 title: Vocabulary
 ---
 
+## Defensive Programming
+
+Writing code so that all potential errors are handled, and aren't able to
+negatively impact the user experience.
+
+## Dead Code
+
+Code that exists in your codebase, but is not used or exercised by any code
+paths.
+
 ## DRY
 
 Don't Repeat Yourself

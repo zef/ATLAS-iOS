@@ -9,6 +9,27 @@ title: ATLAS — Mobile App Development
 [zef.houssney@colorado.edu](mailto:zef.houssney@colorado.edu)
 
 <hr />
+## 15 — APIs, Continued
+
+2022-10-12, Wednesday
+
+- [Slides](15-APIs-Continued.html)
+- [Recording of Class, Part 1](https://youtu.be/pvLoADuQiog)
+- [Recording of Class, Part 2](https://youtu.be/JwaRi25PZu4)
+
+### Resources
+
+- [Network Link Conditioner](https://nshipster.com/network-link-conditioner/)
+on Mac and iOS
+
+#### HTTP Tools
+
+- [Proxyman](https://proxyman.io)
+- [Charles Proxy](https://www.charlesproxy.com) (cross-platform)
+- [Wireshark](https://www.wireshark.org) (free, open source, cross-platform)
+- [Paw](https://paw.cloud)
+
+<hr />
 ## 14 — APIs and Web Requests
 
 2022-10-10, Monday
