@@ -8,6 +8,21 @@ title: ATLAS — Mobile App Development
 
 [zef.houssney@colorado.edu](mailto:zef.houssney@colorado.edu)
 
+
+<hr />
+## 16 — Design Patterns and Programming Paradigms
+
+2022-10-17, Wednesday
+
+- [Slides](16-Patterns-and-Paradigms.html)
+- [Recording of Class, Part 1](https://youtu.be/-nhgCyzvRJU)
+- [Recording of Class, Part 2](https://youtu.be/Qcu6kKSGt9g)
+
+## Resources
+
+- [MVVM in SwiftUI](https://www.hackingwithswift.com/books/ios-swiftui/introducing-mvvm-into-your-swiftui-project)
+- [Protocol Oriented Programming](https://developer.apple.com/videos/play/wwdc2015/408/)
+
 <hr />
 ## 15 — APIs, Continued
 
