@@ -12,7 +12,7 @@ title: ATLAS — Mobile App Development
 <hr />
 ## 16 — Design Patterns and Programming Paradigms
 
-2022-10-17, Wednesday
+2022-10-17, Monday
 
 - [Slides](16-Patterns-and-Paradigms.html)
 - [Recording of Class, Part 1](https://youtu.be/-nhgCyzvRJU)
