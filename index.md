@@ -10,6 +10,21 @@ title: ATLAS — Mobile App Development
 
 
 <hr />
+## 17 — Error Messaging and Handling
+
+2022-10-19, Wednesday
+
+## Resources
+
+- [WIX on Error Messaging](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
+
+## Assignment
+
+- Start using git branches and `develop` branch.
+  - Use `git checkout -b develop` on the command line
+  - Clients like GitHub Desktop can do this through the UI too.
+
+<hr />
 ## 16 — Design Patterns and Programming Paradigms
 
 2022-10-17, Monday
