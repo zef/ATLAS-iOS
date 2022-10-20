@@ -14,6 +14,10 @@ title: ATLAS — Mobile App Development
 
 2022-10-19, Wednesday
 
+- [Slides](17-ErrorHandling.html)
+- [Recording of Class, Part 1](https://youtu.be/eoAxk4m-kfA)
+- [Recording of Class, Part 2](https://youtu.be/tUSWZSNk2ps)
+
 ## Resources
 
 - [WIX on Error Messaging](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)

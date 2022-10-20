@@ -30,7 +30,7 @@ section.end h1 {
 
 ---
 
-### [Error Handling](error-handling.html)
+### [Error Handling](ErrorHandling.html)
 
 ---
 
