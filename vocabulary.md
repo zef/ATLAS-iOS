@@ -2,6 +2,19 @@
 title: Vocabulary
 ---
 
+## Nerd Sniping
+
+https://xkcd.com/356/
+
+## Deprecated
+
+Some code, or an API that will be going away in a future version of a library or
+framework.
+
+## Legacy Code
+
+Old code that is no longer supported, or in active development.
+
 ## Defensive Programming
 
 Writing code so that all potential errors are handled, and aren't able to

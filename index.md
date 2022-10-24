@@ -10,6 +10,16 @@ title: ATLAS — Mobile App Development
 
 
 <hr />
+## 17 — Libraries and Open Source
+
+2022-10-24, Monday
+
+
+- [Slides](18-OpenSource.html)
+- [Recording of Class, Part 1](https://youtu.be/sxrMkod3gyc)
+- [Recording of Class, Part 2](https://youtu.be/2mU2Uz2HOrE)
+
+<hr />
 ## 17 — Error Messaging and Handling
 
 2022-10-19, Wednesday
