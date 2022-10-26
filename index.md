@@ -9,11 +9,25 @@ title: ATLAS — Mobile App Development
 [zef.houssney@colorado.edu](mailto:zef.houssney@colorado.edu)
 
 
+## 19 — Assessing Progress
+
+2022-10-26, Wednesday
+
+- [Recording of Class](https://youtu.be/wNfF6CehUj4)
+
+## Assignment
+
+- Make sure you have taken both quizzes on Canvas by class on Monday.
+
+## Resources
+
+- [Hacking with Swift assessment quizzes](https://www.hackingwithswift.com/review)
+
+
 <hr />
 ## 18 — Libraries and Open Source
 
 2022-10-24, Monday
-
 
 - [Slides](18-OpenSource.html)
 - [Recording of Class, Part 1](https://youtu.be/sxrMkod3gyc)
