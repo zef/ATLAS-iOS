@@ -2,6 +2,10 @@
 title: Vocabulary
 ---
 
+## Semantic Versioning
+
+A widely-used pattern of indicating software library version numbers. See [semver.org](https://semver.org).
+
 ## Nerd Sniping
 
 https://xkcd.com/356/
