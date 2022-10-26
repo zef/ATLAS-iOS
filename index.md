@@ -10,7 +10,7 @@ title: ATLAS — Mobile App Development
 
 
 <hr />
-## 17 — Libraries and Open Source
+## 18 — Libraries and Open Source
 
 2022-10-24, Monday
 
