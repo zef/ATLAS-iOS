@@ -9,6 +9,28 @@ title: ATLAS — Mobile App Development
 [zef.houssney@colorado.edu](mailto:zef.houssney@colorado.edu)
 
 
+## 20 — Saving Data
+
+2022-10-31, Monday
+
+- [Recording of Class](https://youtu.be/I_c5E3xdHcI)
+
+## Assignment
+
+- Prepare for some lab time on Wednesday. Bring in specific questions or
+problems.
+- Monday, November 7: You should have a `develop` branch pushed to your project
+repo, with some code changes since your check-in.
+
+## Resources
+
+- [Core Data Apple Docs](https://developer.apple.com/documentation/coredata)
+- [Detailed blog post](https://blckbirds.com/post/core-data-and-swiftui/)
+- [Video: SwiftUI and CoreData from Hacking with Swift](https://www.youtube.com/watch?v=bvm3ZLmwOdU)
+- [Video: SwiftUI and CoreData from Swiftful Thinking](https://www.youtube.com/watch?v=BPQkpxtgalY)
+  - The next episode, #16 is a much longer look at CoreData relationships.
+
+<hr />
 ## 19 — Assessing Progress
 
 2022-10-26, Wednesday
