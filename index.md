@@ -9,6 +9,18 @@ title: ATLAS — Mobile App Development
 [zef.houssney@colorado.edu](mailto:zef.houssney@colorado.edu)
 
 
+## 21 — Recursion, Testing, Lab
+
+2022-11-02, Monday
+
+- [Recording of Class (45 minutes)](https://youtu.be/YvqGz-ZoQQw)
+
+## Assignment
+
+- Monday, November 7: You should have a `develop` branch pushed to your project
+repo, with some code changes since your check-in.
+
+
 ## 20 — Saving Data
 
 2022-10-31, Monday
