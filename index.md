@@ -9,9 +9,22 @@ title: ATLAS — Mobile App Development
 [zef.houssney@colorado.edu](mailto:zef.houssney@colorado.edu)
 
 
+## 22 — Working in Software
+
+2022-11-07, Monday
+
+- [Slides](22-WorkingInSoftware.html)
+- [Recording of Class](https://youtu.be/PmnsYcZKPao)
+
+## Assignment
+
+- Wednesday, November 9: Create a pull request from your `develop` branch.
+
+<hr />
+
 ## 21 — Recursion, Testing, Lab
 
-2022-11-02, Monday
+2022-11-02, Wednesday
 
 - [Recording of Class (45 minutes)](https://youtu.be/YvqGz-ZoQQw)
 
@@ -20,7 +33,7 @@ title: ATLAS — Mobile App Development
 - Monday, November 7: You should have a `develop` branch pushed to your project
 repo, with some code changes since your check-in.
 
-
+<hr />
 ## 20 — Saving Data
 
 2022-10-31, Monday
