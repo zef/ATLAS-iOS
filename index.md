@@ -9,6 +9,13 @@ title: ATLAS — Mobile App Development
 [zef.houssney@colorado.edu](mailto:zef.houssney@colorado.edu)
 
 
+## 23 — Working in Software, Continued
+
+2022-11-09, Wednesday
+
+- [Recording of Class](https://youtu.be/IymrcEF2V1Y)
+
+
 ## 22 — Working in Software
 
 2022-11-07, Monday
