@@ -42,7 +42,7 @@ struct Repo {
         manager.fileExists(atPath: localPath)
     }
 
-    func pull() {
+    func pull(all: Bool = false) {
         print("Pulling \(gitPath)")
         let command = "git -C \(localPath) pull"
         print(Shell.execute(command))
@@ -56,7 +56,7 @@ struct Repo {
 
     func cloneOrUpdate() {
         if existsOnDisk {
-            pull()
+            pull(all: true)
         } else {
             clone()
         }
