@@ -17,6 +17,7 @@ title: ATLAS — Mobile App Development
 
 ## Resources
 
+Talked about this after the video was done:
 - [Alternative database, Boutique](https://github.com/mergesort/Boutique)
 
 <hr />
