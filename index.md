@@ -9,11 +9,18 @@ title: ATLAS — Mobile App Development
 [zef.houssney@colorado.edu](mailto:zef.houssney@colorado.edu)
 
 
+## 25 — Grab Bag
+
+- [Recording of Class](https://youtu.be/Fyn8AQ067CY)
+- [Slides](25-GrabBag.html)
+
+<hr />
 ## 24 — Animation
 
 2022-11-14, Monday
 
 - [Recording of Class](https://youtu.be/2bvutSHBgcE)
+- [Slides](24-Animation.html)
 
 ## Resources
 
