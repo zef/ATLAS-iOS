@@ -8,8 +8,21 @@ title: ATLAS — Mobile App Development
 
 [zef.houssney@colorado.edu](mailto:zef.houssney@colorado.edu)
 
+## 26 — Code Review, Poetry, and On Good Code
+
+2022-11-28, Monday
+
+- [Recording of Class](https://youtu.be/gp5fNGLJadA)
+
+## Resources
+
+[On Work](https://www.gutenberg.org/cache/epub/58585/pg58585-images.html#link30), from *The Prophet* by Khalil Gibran
+
+<hr />
 
 ## 25 — Grab Bag
+
+2022-11-16, Wednesday
 
 - [Recording of Class](https://youtu.be/Fyn8AQ067CY)
 - [Slides](25-GrabBag.html)
