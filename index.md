@@ -8,6 +8,20 @@ title: ATLAS — Mobile App Development
 
 [zef.houssney@colorado.edu](mailto:zef.houssney@colorado.edu)
 
+## 27 — Regular Expressions, A Small SwiftUI App
+
+2022-11-30, Wednesday
+
+- [Recording of Class](https://youtu.be/KVpwyFtPGNQ)
+
+## Resources
+
+- [Learn Regular expressions](https://regexone.com)
+- [Rubular Regex Tool](https://rubular.com)
+- Learned about RSS and Atom feeds.
+
+<hr />
+
 ## 26 — Code Review, Poetry, and On Good Code
 
 2022-11-28, Monday
